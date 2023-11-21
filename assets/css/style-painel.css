@@ -1,0 +1,44 @@
+/*
+CSS do painel geral
+*/
+
+h1 {
+    display: none;
+}
+
+.menu-coluna {
+    width:300px;
+    height:718px;
+    margin-top:0;
+    margin-left:0px;
+    margin-bottom:0;
+    background-color:#FFFFFF;
+    float:left;
+    border-right-width: 2px;
+    border-right-style: solid;
+    border-right-color: #D3D3D3;
+}
+
+.conteudo {
+    width:1273px;
+    height:675px;
+    float:right;
+    margin-right: 10px;
+    margin-left:0px;
+    background-color:#FFFFFF;
+    border-left: 10px;
+    border-color: #DCDCDC;
+}
+
+.footer {
+    width: 1275px;
+    height: 33px;
+    float:right;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-left:0px;
+    background-color: #FFFFFF;
+    border-top-width: 2px;
+    border-top-style: solid;
+    border-top-color: #D3D3D3;
+}
